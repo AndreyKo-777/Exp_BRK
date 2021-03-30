@@ -149,12 +149,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=ProjectRev
-Value=1
-
-[Parameter2]
 Name=Project
 Value=KAME_EXP_BRK
+
+[Parameter2]
+Name=ProjectRev
+Value=1
 
 [Configuration1]
 Name=Sources
