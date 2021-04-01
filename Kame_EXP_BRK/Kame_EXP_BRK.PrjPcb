@@ -33,12 +33,7 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=12C92274-CAF6-4925-8F9C-0081745D88B9
-VaultGUID=d0eb4545-01a6-4a09-8868-9902e15b290e
-ReleaseVaultName=WS 2
-ItemGUID=12C92274-CAF6-4925-8F9C-0081745D88B9
-VcsMigrated=d0eb4545-01a6-4a09-8868-9902e15b290e|12C92274-CAF6-4925-8F9C-0081745D88B9
-IncludeDesignInRelease=0
+
 
 [Preferences]
 PrefsVaultGUID=
