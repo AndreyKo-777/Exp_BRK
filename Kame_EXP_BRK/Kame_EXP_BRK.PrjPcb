@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-
+ManagedProjectGUID=FC0FE8AD-4856-47C4-A7EF-33620CF757C5
+VaultGUID=FEB6C82B-DB96-4FA6-A45D-3059D58878C2
+ReleaseVaultName=000001_SVN_Still
+ItemGUID=FC0FE8AD-4856-47C4-A7EF-33620CF757C5
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -146,12 +149,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=ProjectRev
-Value=1
-
-[Parameter2]
 Name=Project
 Value=KAME_EXP_BRK
+
+[Parameter2]
+Name=ProjectRev
+Value=1
 
 [Configuration1]
 Name=Sources
