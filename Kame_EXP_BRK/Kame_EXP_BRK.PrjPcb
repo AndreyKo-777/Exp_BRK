@@ -33,7 +33,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-
+ManagedProjectGUID=C830292E-153F-4371-B1FC-687528A1CEB6
+VaultGUID=FEB6C82B-DB96-4FA6-A45D-3059D58878C2
+ReleaseVaultName=000001_SVN_Still
+ItemGUID=C830292E-153F-4371-B1FC-687528A1CEB6
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -146,12 +149,12 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=ProjectRev
-Value=1
-
-[Parameter2]
 Name=Project
 Value=KAME_EXP_BRK
+
+[Parameter2]
+Name=ProjectRev
+Value=1
 
 [Configuration1]
 Name=Sources
@@ -296,7 +299,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote for Windows 10 (redirected 2)
+TargetPrinter=Отправить в OneNote 2013 (redirected 2)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
